@@ -1,0 +1,7 @@
+C:\Users\me\source\repos\LogicTask1\LogicTask1\obj\Debug\LogicTask1.csprojResolveAssemblyReference.cache
+C:\Users\me\source\repos\LogicTask1\LogicTask1\obj\Debug\LogicTask1.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\LogicTask1\LogicTask1\bin\Debug\LogicTask1.exe.config
+C:\Users\me\source\repos\LogicTask1\LogicTask1\bin\Debug\LogicTask1.exe
+C:\Users\me\source\repos\LogicTask1\LogicTask1\bin\Debug\LogicTask1.pdb
+C:\Users\me\source\repos\LogicTask1\LogicTask1\obj\Debug\LogicTask1.exe
+C:\Users\me\source\repos\LogicTask1\LogicTask1\obj\Debug\LogicTask1.pdb
